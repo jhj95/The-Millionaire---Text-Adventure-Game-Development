@@ -1,4 +1,4 @@
-# The-Millionaire --- Text-Adventure-Game-Development
+# The Millionaire | Text Adventure Game Development
 
 My name is Jorge Hernández Jiménez and this is my first project working with Python (10/12/2019). I have never
 coded before. After two weeks since I started to study Python at Hult International Business School
